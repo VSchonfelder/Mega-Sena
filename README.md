@@ -1,7 +1,7 @@
-1- Este codigo em C eh uma simulação da Mega-Sena, onde vc pode fazer apostas manuais e automaticas com ate 15 dezenas, aumentando os valores da aposta dependendo da quantidade de apostas e dezenas.
+1- Este código em C é uma simulação da Mega-Sena, onde você pode fazer apostas manuais e automáticas com até 15 dezenas, aumentando os valores da aposta dependendo da quantidade de apostas e dezenas.
 
-2- Eh possivel tambem fazer as `teimosinhas`, repetindo suas apostas pra ate 8 sorteios.
+2- É possível tambem fazer as `teimosinhas`, repetindo suas apostas por até 8 sorteios.
 
-3- O coidigo realiza o sorteio de 6 numeros e verifica se vc acertou uma quadra, quina, ou sena. Cada uma te da uma recompensa de dinheiro dependendo da quantidade de acertos seguidos.
+3- O código realiza o sorteio de 6 números e verifica se você acertou uma quadra, quina, ou sena. Cada uma te dá uma recompensa de dinheiro dependendo da quantidade de acertos seguidos.
 
-4- No final eh exibido um balanco com tudo o que vc pagou e seus ganhos, constatando se houve lucro ou nao.
+4- No final é exibido um balanço com tudo o que você pagou e seus ganhos, constatando se houve lucro ou não.
